@@ -15,9 +15,9 @@ from telethon.tl.types import InputPeerEmpty
 # =====================================================================
 # ⚙️ CONFIG - APNA YAHI DAALO
 # =====================================================================
-API_ID = 24923714
-API_HASH = '040929ee690bdb53b36484e017310358'
-BOT_TOKEN = '8998315286:AAEqhh217BcA1e5XbTh0ku7s8I3omx19naU'  # @BotFather se lo
+API_ID = 38652766
+API_HASH = '45e99bc7cbfab2584e7cd5b94fe538d8'
+BOT_TOKEN = '8853853181:AAF3k0koqu55wBenu_3Z7cSOl7-z6kRsRsM'  # @BotFather se lo
 OWNER_ID = 8722144519  # Teri ID
 
 SUDO_USERS = [OWNER_ID]
