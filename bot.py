@@ -18,7 +18,7 @@ from telethon.tl.types import MessageEntityTextUrl, MessageEntityMentionName
 API_ID = 38652766
 API_HASH = '45e99bc7cbfab2584e7cd5b94fe538d8'
 BOT_TOKEN = '8853853181:AAF3k0koqu55wBenu_3Z7cSOl7-z6kRsRsM'  # @BotFather se lo
-OWNER_ID = 8722144519  # Teri ID
+OWNER_ID = 7862394625  # Teri ID
 
 SUDO_USERS = [OWNER_ID]
 bot_status = "online"  # Default online
