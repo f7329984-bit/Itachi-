@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: itachi-bot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: API_ID
+        value: 24923714
+      - key: API_HASH
+        value: 040929ee690bdb53b36484e017310358
+      - key: BOT_TOKEN
+        value: 8998315286:AAEqhh217BcA1e5XbTh0ku7s8I3omx19naU
+      - key: OWNER_ID
+        value: 8722144519
